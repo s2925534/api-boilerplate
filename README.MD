@@ -1,6 +1,3 @@
-Certainly! Here's the complete README.md file with all the sections included:
-
-```markdown
 # API Boilerplate
 
 This is a boilerplate project for building APIs using Node.js with Express.
@@ -17,7 +14,7 @@ This is a boilerplate project for building APIs using Node.js with Express.
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/s2925534/api-boilerplate
    ```
 
 2. Install dependencies:
@@ -77,8 +74,3 @@ Contributions are welcome! If you find any issues or want to enhance the project
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-Please replace `<repository_url>` with the actual URL of your repository.
-
-If you have any further questions or need additional assistance, feel free to ask.
